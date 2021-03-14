@@ -123,3 +123,5 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 * The Pandas functions used in class this week will be useful for this assignment.
 
 * Be sure to use `head()` or `tail()` when you want to look at your data, but don't want to print to a large DataFrame.
+
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
